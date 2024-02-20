@@ -1,0 +1,3 @@
+C:/Users/Kubak/Projects/C++/Exercise4/cmake-build-debug/CMakeFiles/Exercise4.dir
+C:/Users/Kubak/Projects/C++/Exercise4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kubak/Projects/C++/Exercise4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
